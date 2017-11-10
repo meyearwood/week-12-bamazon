@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/meyearwood/week-12-bamazon/issues"
   },
-  "homepage": "https://github.com/meyearwood/week-12-bamazon#readme"
+  "homepage": "https://github.com/meyearwood/week-12-bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.3.0",
+    "mysql": "^2.15.0"
+  }
 }
